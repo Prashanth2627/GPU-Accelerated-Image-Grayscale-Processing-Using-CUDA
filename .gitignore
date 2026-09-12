@@ -1,0 +1,26 @@
+# Compiled Binary files
+gpu_image_processor
+gpu_image_processor.exe
+*.out
+*.exe
+
+# Object files and Build folders
+obj/
+*.o
+*.obj
+
+# Debug and IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.pdb
+*.ilk
+*~
+.DS_Store
+
+# Temporary outputs (optional to ignore, but we include them in the repo as proof of execution)
+# If you want to keep them in git, keep this commented out:
+# output/
+# results/performance.csv
+# results/execution_log.txt

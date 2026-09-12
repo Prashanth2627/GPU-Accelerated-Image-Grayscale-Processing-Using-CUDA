@@ -1,0 +1,5 @@
+filename,width,height,cpu_time_ms,gpu_time_ms,speedup
+image1.ppm,512,512,2.345,0.148,15.84
+image2.ppm,1024,768,7.214,0.402,17.95
+image3.ppm,800,600,4.382,0.251,17.46
+image4.ppm,1280,720,8.411,0.456,18.45
